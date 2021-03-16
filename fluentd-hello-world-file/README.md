@@ -9,5 +9,7 @@ Fluentd to precte, prida k tomu atribut host_param a vyslednou zpravu ulozi do a
 
 # Vypnuti: 
 
+    CTRL + C
+
     docker-compose down
 
