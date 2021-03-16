@@ -1,5 +1,7 @@
 * Projekt `demo-fluentd` loguje pres fluent-logger-java
 
+TOHLE JE SPATNY PRISTUP!!! VHODNY POUZE PRO HELLO WORLD!!!
+
 cd demo-fluentd
 
 # Provede build image aplikace
