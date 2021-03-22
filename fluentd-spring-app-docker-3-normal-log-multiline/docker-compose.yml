@@ -29,11 +29,6 @@ services:
     user: root
     ports:
       - "8080:8080"
-    logging:
-      driver: "fluentd"
-      options: 
-        fluentd-address: localhost:24224
-        tag: myapp
     volumes:
       - myapp_logs:/tmp/log/
     depends_on: 
