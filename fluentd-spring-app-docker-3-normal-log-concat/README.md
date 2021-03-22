@@ -10,6 +10,10 @@ cd ..
 # Spusti elasticsearch, kibana, fluentd & aplikaci
 docker-compose up --build
 
+# Poznamka ke zpusobu logovani:
+
+Pouziva se fluentd logging driver z Dockeru
+
 # Kibana:
 http://localhost:5601
 
